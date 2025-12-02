@@ -1,0 +1,14 @@
+# ninja log v6
+8	314	1744297992461308567	CMakeFiles/SE_Assignment_3.dir/user_input.c.o	948c98be493b64bf
+1	93	1764540584687772225	build.ninja	51662591f874e559
+216	334	1746101443760564202	SE_Assignment_3	7c9d171deca80721
+1	239	1744301931748416008	CMakeFiles/SE_Assignment_3.dir/main.c.o	17bb38fa4eaf6e35
+4	60	1744210819675938324	CMakeFiles/SE_Assignment_3.dir/ascii_art.c.o	95f22214d241cc75
+3	216	1746101443547353577	CMakeFiles/SE_Assignment_3.dir/kanban.c.o	d9d5fb09d693f2d9
+7	314	1744297992460452061	CMakeFiles/SE_Assignment_3.dir/useful.c.o	fa602d0c0accb363
+2	32	1764540596690384597	CMakeFiles/SE_Assignment_3.dir/main.c.o	5f181ad4f8d51107
+3	37	1764540596691878459	CMakeFiles/SE_Assignment_3.dir/ascii_art.c.o	315caed489bd5797
+2	39	1764540596690744375	CMakeFiles/SE_Assignment_3.dir/useful.c.o	3c2bc3ac0e5ba179
+3	39	1764540596691381186	CMakeFiles/SE_Assignment_3.dir/user_input.c.o	7feaa13b57d6658c
+2	47	1764540596690894412	CMakeFiles/SE_Assignment_3.dir/kanban.c.o	7f05e021cf7f5a28
+47	81	1764540596735929437	SE_Assignment_3	c7a9d134d5181894
